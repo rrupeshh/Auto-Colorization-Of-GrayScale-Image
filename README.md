@@ -1,0 +1,10 @@
+# Auto Colorization of Gray Scale Image using CNN.
+
+## Tools Used
+* Python 3
+* Keras
+* Numpy
+
+## Screenshot of Result
+<img src = 'Screenshots/1.jpg'>
+<img src = 'Screenshots/2.jpg'>
