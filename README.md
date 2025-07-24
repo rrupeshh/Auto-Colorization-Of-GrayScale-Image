@@ -4,6 +4,8 @@
 
 This project implements automatic colorization of grayscale images using Convolutional Neural Networks (CNN). The repository includes both basic auto-colorization and an advanced **Ethnicity Aware Autocolorization** system that considers ethnic characteristics for more accurate and culturally sensitive colorization.
 
+Complete Walkaround is covered in this blog:  [Auto-Colorization of Grayscale Images using CNN](https://rupeshpoudel.com.np/blog/auto-colorization-grayscale-images-cnn)
+
 ## Tools Used
 
 - Python 3
